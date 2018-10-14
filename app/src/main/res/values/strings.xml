@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Time Condo</string>
+
+    <string name="maint">Maintenance</string>                               <!--hardsai-->
+    <string name="post">Parcel Post</string>                                <!--hardsai-->
+    <string name="map">Map</string>                                         <!--hardsai-->
+    <string name="announ">Announment</string>                               <!--hardsai-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>       <!--hardsai-->
+    <string name="fa_room">A312</string>                                    <!--hardsai-->
+
+</resources>
